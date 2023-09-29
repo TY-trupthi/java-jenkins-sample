@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>java-jenkins-sample</finalName>
 	</build>
 
 </project>
